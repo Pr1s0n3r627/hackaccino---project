@@ -1,0 +1,36 @@
+State,Soil,Crop,LLT,ULT,LLH,ULH,LLW,ULW
+Andhra Pradesh,Red soil,Cotton,22,30,60,80,10,20
+Arunachal Pradesh,Loamy soil,Fruits,15,30,60,80,10,20
+Assam,Alluvial soil,Tea,20,30,70,90,10,20
+Bihar,Alluvial soil,Sugarcane,20,35,60,80,10,20
+Chhattisgarh,Red soil,Sugarcane,20,35,60,80,10,20
+Goa,Lateritic soil,Cashew,25,30,60,80,10,20
+Gujarat,Black soil,Cotton,22,30,60,80,10,20
+Haryana,Alluvial soil,Sugarcane,20,35,60,80,10,20
+Himachal Pradesh,Alluvial soil,Apples,10,20,60,80,10,20
+Jharkhand,Red soil,Vegetables,15,25,60,80,10,20
+Karnataka,Red soil,Fruits,15,30,70,90,10,20
+Kerala,Lateritic soil,Rubber,25,35,50,70,10,20
+Madhya Pradesh,Black soil,Soybean,20,30,60,80,10,20
+Maharashtra,Black soil,Sugarcane,20,35,60,80,10,20
+Manipur,Loamy soil,Fruits,15,30,60,80,10,20
+Meghalaya,Red soil,Fruits,15,30,60,80,10,20
+Mizoram,Loamy soil,Fruits,15,30,60,80,10,20
+Nagaland,Loamy soil,Fruits,15,30,60,80,10,20
+Odisha,Alluvial soil,Sugarcane,20,35,60,80,10,20
+Punjab,Alluvial soil,Wheat,10,25,40,60,10,20
+Rajasthan,Sandy soil,Fruits,15,30,70,90,10,20
+Sikkim,Loamy soil,Fruits,15,30,60,80,10,20
+Tamil Nadu,Red soil,Fruits,15,30,60,80,10,20
+Telangana,Red soil,Fruits,15,30,60,80,10,20
+Tripura,Loamy soil,Fruits,15,30,60,80,10,20
+Uttar Pradesh,Alluvial soil,Sugarcane,20,35,70,90,10,20
+Uttarakhand,Alluvial soil,Fruits,15,30,60,80,10,20
+West Bengal,Alluvial soil,Rice,20,35,60,80,10,20
+Andaman and Nicobar Islands,Alluvial soil,Coconut,10,25,70,90,10,20
+Chandigarh,Sandy loam,Fruits,15,30,60,80,10,20
+Dadra and Nagar Haveli and Daman and Diu,Sandy soil,Fruits,15,30,60,80,10,20
+Lakshadweep,Coral sand,Coconut,25,28,70,90,10,20
+Delhi,Alluvial soil,Vegetables,15,25,60,80,10,20
+Puducherry,Lateritic soil,Fruits,15,30,60,80,10,20
+Ladakh,Sandy soil,Fruits,15,30,60,80,10,20
